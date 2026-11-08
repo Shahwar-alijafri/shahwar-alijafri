@@ -1,4 +1,4 @@
-# Hi there, I'm Syed Shahwar Ali Jafri 👋
+# Hi there, I'm Shahwar Ali Jafri 👋
 
 ### 👨‍💻 Front-End Developer | BCA Student
 Passionate about building responsive, user-centric web applications and interactive digital experiences. Currently focusing on modern front-end technologies, clean UI/UX, and data-driven client utilities.
