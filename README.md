@@ -32,4 +32,4 @@ Passionate about building responsive, user-centric web applications and interact
 
 ### 🌐 Connect With Me
 - 💼 **LinkedIn:** [Add your LinkedIn profile link here]
-- 📧 **Email:** [Add your email here]
+- 📧 **Email:** [shahwaralid786@gmail.com](mailto:shahwaralid786@gmail.com)
