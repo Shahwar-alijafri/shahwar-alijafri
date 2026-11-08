@@ -26,12 +26,12 @@ Passionate about building responsive, user-centric web applications and interact
 ### 📊 GitHub Activity & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahwar-alijafri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=38bdf8" alt="Shahwar's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahwar-alijafri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=shahwar-alijafri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=38bdf8" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shahwar-alijafri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahwar-alijafri&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=58a6ff" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahwar-alijafri&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=58a6ff" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
