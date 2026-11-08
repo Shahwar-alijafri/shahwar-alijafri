@@ -19,6 +19,7 @@ Passionate about building responsive, user-centric web applications and interact
 
 ### 📌 Featured Projects
 - 📊 **[Student Expense Tracker](https://github.com/shahwar-alijafri/student-expense-tracker):** Budget management tool featuring Chart.js visual analytics and LocalStorage sync. ([Live Demo](https://shahwar-alijafri.github.io/student-expense-tracker/))
+- 🌤️ **[Weather & AQI Dashboard](https://github.com/shahwar-alijafri/weather-check-dashboard):** Real-time meteorological telemetry & AQI monitor using Open-Meteo REST APIs. ([Live Demo](https://shahwar-alijafri.github.io/weather-check-dashboard/))
 
 ---
 
