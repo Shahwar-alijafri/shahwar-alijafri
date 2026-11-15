@@ -36,6 +36,16 @@ Passionate about building responsive, user-centric web applications and interact
 
 ---
 
+### 🏆 Certifications
+
+[![Responsive Web Design](https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design-0a0a23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/shahwar-ali-jafri/responsive-web-design-v9)
+[![A2 English for Developers](https://img.shields.io/badge/freeCodeCamp-A2%20English%20for%20Developers-0a0a23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/shahwar-ali-jafri/a2-english-for-developers)
+
+- **[Responsive Web Design Developer Certification](https://www.freecodecamp.org/certification/shahwar-ali-jafri/responsive-web-design-v9)** — *freeCodeCamp (Issued Nov 2026)*
+- **[A2 English for Developers](https://www.freecodecamp.org/certification/shahwar-ali-jafri/a2-english-for-developers)** — *freeCodeCamp (Issued Nov 2026)*
+
+---
+
 ### 🌐 Connect With Me
 - 💼 **LinkedIn:** [Add your LinkedIn profile link here]
 - 📧 **Email:** [shahwaralid786@gmail.com](mailto:shahwaralid786@gmail.com)
