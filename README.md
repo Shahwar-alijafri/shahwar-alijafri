@@ -39,8 +39,10 @@ Passionate about building responsive, user-centric web applications and interact
 
 <p align="left">
   <a href="https://www.credly.com/badges/874d71f9-beac-4974-8574-a6c22b7391f4/public_url" target="_blank">
-    <img src="https://images.credly.com/size/220x220/images/0c1c6eed-818c-4f78-bfaa-7ea8704c863a/image.png" alt="Web Development Fundamentals - IBM SkillsBuild" width="120" />
+    <img src="https://images.credly.com/size/220x220/images/0c1c6eed-818c-4f78-bfaa-7ea8704c863a/image.png" alt="Web Development Fundamentals - Issued to Shahwar Ali Jafri" width="120" />
   </a>
+  <br />
+  <sub><em>Issued to <strong>Shahwar Ali Jafri</strong> • Click badge to verify on Credly</em></sub>
 </p>
 
 [![Responsive Web Design](https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design-0a0a23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/shahwar-ali-jafri/responsive-web-design-v9)
