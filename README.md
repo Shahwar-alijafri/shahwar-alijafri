@@ -37,7 +37,12 @@ Passionate about building responsive, user-centric web applications and interact
 ---
 ### 🏆 Certifications & Badges
 
-[![Web Development Fundamentals](https://img.shields.io/badge/IBM%20SkillsBuild-Web%20Development%20Fundamentals-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/874d71f9-beac-4974-8574-a6c22b7391f4/public_url)
+<p align="left">
+  <a href="https://www.credly.com/badges/874d71f9-beac-4974-8574-a6c22b7391f4/public_url" target="_blank">
+    <img src="https://images.credly.com/size/220x220/images/0c1c6eed-818c-4f78-bfaa-7ea8704c863a/image.png" alt="Web Development Fundamentals - IBM SkillsBuild" width="120" />
+  </a>
+</p>
+
 [![Responsive Web Design](https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design-0a0a23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/shahwar-ali-jafri/responsive-web-design-v9)
 [![A2 English for Developers](https://img.shields.io/badge/freeCodeCamp-A2%20English%20for%20Developers-0a0a23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/shahwar-ali-jafri/a2-english-for-developers)
 
