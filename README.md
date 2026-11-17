@@ -46,13 +46,13 @@ Passionate about building responsive, user-centric web applications and interact
     <img src="https://images.credly.com/size/220x220/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" alt="Introduction to Data Science - Issued to Shahwar Ali Jafri" width="120" />
   </a>
   <br />
-  <sub><em>Issued to <strong>Shahwar Ali Jafri</strong> • Click any badge to verify on Credly</em></sub>
+  <sub><em>Issued to <strong>Shahwar Ali Jafri</strong> • Click badge to verify on Credly</em></sub>
 </p>
 
 [![Responsive Web Design](https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design-0a0a23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/shahwar-ali-jafri/responsive-web-design-v9)
 [![A2 English for Developers](https://img.shields.io/badge/freeCodeCamp-A2%20English%20for%20Developers-0a0a23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/shahwar-ali-jafri/a2-english-for-developers)
 
-- **[Introduction to Data Science](https://www.credly.com/badges/a1d98c9b-90c7-4be6-b14e-8d6a73e86f7a/public_url)** — *Cisco Networking Academy (Issued Nov 2026)*
+- **[Introduction to Data Science](https://github.com/shahwar-ali-jafri/shahwar-ali-jafri/blob/main/cisco-data-science-certificate.pdf)** — *Cisco Networking Academy (Issued Nov 2026)* • [Verify Badge](https://www.credly.com/badges/a1d98c9b-90c7-4be6-b14e-8d6a73e86f7a/public_url)
 - **[Web Development Fundamentals](https://www.credly.com/badges/874d71f9-beac-4974-8574-a6c22b7391f4/public_url)** — *IBM SkillsBuild (Issued Nov 2026)*
 - **[Responsive Web Design Developer Certification](https://www.freecodecamp.org/certification/shahwar-ali-jafri/responsive-web-design-v9)** — *freeCodeCamp (Issued Nov 2026)*
 - **[A2 English for Developers](https://www.freecodecamp.org/certification/shahwar-ali-jafri/a2-english-for-developers)** — *freeCodeCamp (Issued Nov 2026)*
